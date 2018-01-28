@@ -1,0 +1,31 @@
+*{
+    font-family: 'Rajdhani', sans-serif;
+    box-sizing: border-box;
+}
+form{
+    margin: 25px auto;
+    display: block;
+    text-align: center
+}
+div{
+    border: 1px dotted;
+    padding: 20px;
+    margin: 0 auto 10px;
+}
+h3{
+    margin-top: 0
+}
+a{
+    display: inline-block;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 10px
+}
+.edt{
+    background-color: darksalmon;
+}
+
+.rmv{
+    background-color:crimson;
+    margin-left: 20px
+}
